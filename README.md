@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VariableExp0rt, an Infrastructure Engineer ☁️
-- 👀 My current interests are in distributed computing, security, embedded systems, and machine learning operations
-- 🌱 Having fun experimenting with Rust and Julia
+- 👀 My current interests are in distributed computing, security, and machine learning operations
+- 🌱 Having fun experimenting with Rust and Go
 - 💞️ Looking to contirbute to Open Source projects in the Kubernetes ecosystem!
 
 <!---
